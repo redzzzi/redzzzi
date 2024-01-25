@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redzzzi
 - 👀 I’m interested in ... singing 🎤
-- 🌱 I’m currently learning ... C
+- 🌱 I have to learn ... C++
 - 💞️ I’m looking to collaborate on ... @yeochaeeon
 - 📫 How to reach me ... visiting Pusan Nat'l Univ.
 <p align="right">ꉂ😃ᵎᵎᵎ</p>
