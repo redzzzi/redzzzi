@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redzzzi
 - 👀 I’m interested in ... front-end development
 - 🌱 I am learning to handle `React`
-- 💞️ I’m looking to contribute to opensource
+- 💞️ I’m looking to contribute to open source
 - 📫 How to reach me ... visiting Pusan Nat'l Univ.
 <p align="right">ꉂ😃ᵎᵎᵎ</p><br>
 
