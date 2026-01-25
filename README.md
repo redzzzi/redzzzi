@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @redzzzi
-- 👀 I’m interested in ... front-end development
-- 🌱 I am learning to handle `React`
-- 💞️ I’m looking to contribute to open source
-- 📫 How to reach me ... visiting Pusan Nat'l Univ.
-<p align="right">ꉂ😃ᵎᵎᵎ</p><br>
+# It's @redzzzi 🥰
 
-### 🧠
-questions and answers for myself
-<!---
-redzzzi/redzzzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=redzzzi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=86400&v=1"
+    height="150"
+    alt="stats graph"
+  />
+</div>
